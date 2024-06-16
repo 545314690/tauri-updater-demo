@@ -53,7 +53,7 @@
     "updater": {
       "active": false,
       "dialog": true,
-      "endpoints": [""],
+      "endpoints": ["http://www.baidu.com"],
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEI2QTUwMEQ0N0M1MjlENApSV1RVS2NWSERWQnFDN0tWVzhCZGRtL1d0Zk5uRVJZUTdwV1cxMWt6Sm5BRXBpT0hVcjdkc3dTUwo=%"
     },
     "windows": [
